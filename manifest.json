@@ -1,0 +1,17 @@
+{
+    "name": "BichoFest",
+    "short_name": "BichoStore",
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "./images/imagen.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
